@@ -29,4 +29,4 @@ I utilized the **BanFakeNews** dataset, a benchmark dataset for Bengali fake new
 4.  Run all cells to reproduce the training.
 
 ---
-*Author: Md Nasif Al Islam
+*Author: Md Nasif Al Islam*
